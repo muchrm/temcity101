@@ -1,0 +1,80 @@
+13-Nov-2018 09:54:51.411 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.23
+13-Nov-2018 09:54:51.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 28 2017 10:30:11 UTC
+13-Nov-2018 09:54:51.419 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.23.0
+13-Nov-2018 09:54:51.419 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+13-Nov-2018 09:54:51.420 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            4.9.93-linuxkit-aufs
+13-Nov-2018 09:54:51.420 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-Nov-2018 09:54:51.421 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/oracle-jdk/jre
+13-Nov-2018 09:54:51.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_161-b12
+13-Nov-2018 09:54:51.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Nov-2018 09:54:51.423 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /opt/teamcity
+13-Nov-2018 09:54:51.423 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /opt/teamcity
+13-Nov-2018 09:54:51.423 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/opt/teamcity/conf/logging.properties
+13-Nov-2018 09:54:51.424 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Nov-2018 09:54:51.425 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Nov-2018 09:54:51.426 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Nov-2018 09:54:51.426 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx512m
+13-Nov-2018 09:54:51.427 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dteamcity.configuration.path=../conf/teamcity-startup.properties
+13-Nov-2018 09:54:51.427 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dlog4j.configuration=file:/opt/teamcity/bin/../conf/teamcity-server-log4j.xml
+13-Nov-2018 09:54:51.427 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dteamcity_logs=/opt/teamcity/bin/../logs
+13-Nov-2018 09:54:51.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.awt.headless=true
+13-Nov-2018 09:54:51.429 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/opt/teamcity
+13-Nov-2018 09:54:51.430 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/opt/teamcity
+13-Nov-2018 09:54:51.430 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/opt/teamcity/temp
+13-Nov-2018 09:54:51.431 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+13-Nov-2018 09:54:51.714 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8111"]
+13-Nov-2018 09:54:51.748 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+13-Nov-2018 09:54:51.751 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 920 ms
+13-Nov-2018 09:54:51.808 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Nov-2018 09:54:51.809 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.23
+13-Nov-2018 09:54:51.829 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/opt/teamcity/webapps/ROOT]
+13-Nov-2018 09:54:59.510 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/opt/teamcity/webapps/ROOT] has finished in [7,681] ms
+13-Nov-2018 09:54:59.535 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8111"]
+13-Nov-2018 09:54:59.558 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 7806 ms
+13-Nov-2018 09:55:39.813 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.23
+13-Nov-2018 09:55:39.817 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 28 2017 10:30:11 UTC
+13-Nov-2018 09:55:39.817 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.23.0
+13-Nov-2018 09:55:39.818 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+13-Nov-2018 09:55:39.818 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            4.9.93-linuxkit-aufs
+13-Nov-2018 09:55:39.818 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-Nov-2018 09:55:39.819 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/oracle-jdk/jre
+13-Nov-2018 09:55:39.820 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_161-b12
+13-Nov-2018 09:55:39.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Nov-2018 09:55:39.822 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /opt/teamcity
+13-Nov-2018 09:55:39.823 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /opt/teamcity
+13-Nov-2018 09:55:39.823 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/opt/teamcity/conf/logging.properties
+13-Nov-2018 09:55:39.824 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Nov-2018 09:55:39.825 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Nov-2018 09:55:39.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Nov-2018 09:55:39.827 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx512m
+13-Nov-2018 09:55:39.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dteamcity.configuration.path=../conf/teamcity-startup.properties
+13-Nov-2018 09:55:39.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dlog4j.configuration=file:/opt/teamcity/bin/../conf/teamcity-server-log4j.xml
+13-Nov-2018 09:55:39.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dteamcity_logs=/opt/teamcity/bin/../logs
+13-Nov-2018 09:55:39.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.awt.headless=true
+13-Nov-2018 09:55:39.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/opt/teamcity
+13-Nov-2018 09:55:39.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/opt/teamcity
+13-Nov-2018 09:55:39.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/opt/teamcity/temp
+13-Nov-2018 09:55:39.832 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+13-Nov-2018 09:55:40.174 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8111"]
+13-Nov-2018 09:55:40.201 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+13-Nov-2018 09:55:40.211 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1456 ms
+13-Nov-2018 09:55:40.280 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Nov-2018 09:55:40.284 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.23
+13-Nov-2018 09:55:40.299 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/opt/teamcity/webapps/ROOT]
+13-Nov-2018 09:55:46.058 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/opt/teamcity/webapps/ROOT] has finished in [5,759] ms
+13-Nov-2018 09:55:46.084 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8111"]
+13-Nov-2018 09:55:46.114 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 5902 ms
+13-Nov-2018 10:18:18.705 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+13-Nov-2018 10:18:18.708 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8111"]
+13-Nov-2018 10:18:18.759 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+13-Nov-2018 10:18:26.066 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ROOT] registered the JDBC driver [org.hsqldb.jdbc.JDBCDriver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+13-Nov-2018 10:18:26.067 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ROOT] registered the JDBC driver [org.hsqldb1.jdbcDriver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+13-Nov-2018 10:18:26.069 SEVERE [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [ROOT] created a ThreadLocal with key of type [org.eclipse.jgit.nls.NLS$1] (value [org.eclipse.jgit.nls.NLS$1@bef3d83]) and a value of type [org.eclipse.jgit.nls.NLS] (value [org.eclipse.jgit.nls.NLS@20e7c542]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+13-Nov-2018 10:18:26.080 SEVERE [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [ROOT] created a ThreadLocal with key of type [org.eclipse.jgit.nls.NLS$1] (value [org.eclipse.jgit.nls.NLS$1@bef3d83]) and a value of type [org.eclipse.jgit.nls.NLS] (value [org.eclipse.jgit.nls.NLS@12b98d7d]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+13-Nov-2018 10:18:26.081 SEVERE [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [ROOT] created a ThreadLocal with key of type [org.eclipse.jgit.nls.NLS$1] (value [org.eclipse.jgit.nls.NLS$1@bef3d83]) and a value of type [org.eclipse.jgit.nls.NLS] (value [org.eclipse.jgit.nls.NLS@60c8a98c]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+13-Nov-2018 10:18:26.083 SEVERE [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [ROOT] created a ThreadLocal with key of type [jetbrains.buildServer.serverSide.RequestStat$1] (value [jetbrains.buildServer.serverSide.RequestStat$1@7e1bbd02]) and a value of type [jetbrains.buildServer.serverSide.RequestStat.NoOpRequestStat] (value [jetbrains.buildServer.serverSide.RequestStat$NoOpRequestStat@69f0734e]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+13-Nov-2018 10:18:26.084 SEVERE [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [ROOT] created a ThreadLocal with key of type [jetbrains.buildServer.util.ThreadStat$1] (value [jetbrains.buildServer.util.ThreadStat$1@4aa020df]) and a value of type [jetbrains.buildServer.util.ThreadStatNoOp] (value [jetbrains.buildServer.util.ThreadStatNoOp@3415f05b]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+13-Nov-2018 10:18:26.084 SEVERE [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [ROOT] created a ThreadLocal with key of type [jetbrains.buildServer.buildTriggers.vcs.svn.SpoolingConnectionFactory$1] (value [jetbrains.buildServer.buildTriggers.vcs.svn.SpoolingConnectionFactory$1@713d3467]) and a value of type [org.tmatesoft.svn.core.internal.io.dav.http.DefaultHTTPConnectionFactory] (value [org.tmatesoft.svn.core.internal.io.dav.http.DefaultHTTPConnectionFactory@1bbd530d]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+13-Nov-2018 10:18:26.084 SEVERE [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [ROOT] created a ThreadLocal with key of type [org.eclipse.jgit.nls.NLS$1] (value [org.eclipse.jgit.nls.NLS$1@bef3d83]) and a value of type [org.eclipse.jgit.nls.NLS] (value [org.eclipse.jgit.nls.NLS@535a1014]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+13-Nov-2018 10:18:26.137 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8111"]
+13-Nov-2018 10:18:26.149 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8111"]

@@ -1,0 +1,2 @@
+[2018-11-13 10:00:24,178]   INFO - ver.diagnostic.ThreadDumpSaver - Thread dump automatically saved to file "/opt/teamcity/logs/threadDumps-2018-11-13/2018-11-13_10.00.24-longRequest-1.txt" with summary: Request processing time (40000 ms) exceeded for the following thread 
+[2018-11-13 10:00:27,423]   INFO - iagnostic.web.DiagnosticFilter - Request processing took too long: 47s,525ms, request: GET '/profile.html', from client 172.19.0.1:54992, authenticated as 'admin' {id=1} 

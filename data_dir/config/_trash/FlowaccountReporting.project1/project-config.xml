@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="6d144498-d465-471a-8a18-cc146f9ff9b9" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/2017.2/project-config.xsd">
+  <name>Flowaccount.Reporting</name>
+  <parameters />
+  <cleanup />
+</project>
+

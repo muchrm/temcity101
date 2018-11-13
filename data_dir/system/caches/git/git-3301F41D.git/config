@@ -1,0 +1,8 @@
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	logallrefupdates = false
+[teamcity]
+	remote = https://pongpanot%40flowaccount.com@bitbucket.org/flowaccount/flowaccount.reporting.git

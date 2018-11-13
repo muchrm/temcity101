@@ -1,0 +1,10 @@
+[2018-11-13 09:59:04,316]   INFO - tbrains.buildServer.ACTIVITIES - Server Started 
+[2018-11-13 09:59:39,108]   INFO - tbrains.buildServer.ACTIVITIES - New user created: 'admin' {id=1} 
+[2018-11-13 10:03:46,123]   INFO - s.buildServer.ACTIVITIES.AUDIT - agent_authorize: Agent ""regular_agent" {id=1}" was authorized by "'admin' {id=1}" 
+[2018-11-13 10:06:34,190]   INFO - s.buildServer.ACTIVITIES.AUDIT - project_create: Project "Flowaccount.Reporting {internalId=project1, externalId=FlowaccountReporting}" was created by "'admin' {id=1}" 
+[2018-11-13 10:06:34,242]   INFO - s.buildServer.ACTIVITIES.AUDIT - vcs_root_create: VCS root ""https://pongpanot@bitbucket.org/flowaccount/flowaccount.reporting.git#refs/heads/master" {internal id=1, id=FlowaccountReporting_HttpsPongpanotBitbucketOrgFlowaccountFlowaccountReportingGi, description: "https://pongpanot@bitbucket.org/flowaccount/flowaccount.reporting.git#refs/heads/master"}" was created by "'admin' {id=1}" with comment "In project: Flowaccount.Reporting" 
+[2018-11-13 10:06:34,598]   INFO - s.buildServer.ACTIVITIES.AUDIT - build_type_create: "Flowaccount.Reporting :: Build {id=FlowaccountReporting_Build, internal id=bt1}" was created by "'admin' {id=1}" 
+[2018-11-13 10:08:17,629]   INFO - s.buildServer.ACTIVITIES.AUDIT - vcs_root_edit_settings: ""https://pongpanot@bitbucket.org/flowaccount/flowaccount.reporting.git#refs/heads/jv-report" {internal id=1, id=FlowaccountReporting_HttpsPongpanotBitbucketOrgFlowaccountFlowaccountReportingGi, description: "https://pongpanot@bitbucket.org/flowaccount/flowaccount.reporting.git#refs/heads/master"}" VCS root settings were edited ("version before: 1, version after: 2") by "'admin' {id=1}" with comment "'https://pongpanot@bitbucket.org/flowaccount/flowaccount.reporting.git#refs/heads/master' VCS root was updated" 
+[2018-11-13 10:13:40,620]   INFO - s.buildServer.ACTIVITIES.AUDIT - project_remove: Project "Flowaccount.Reporting" was removed by "'admin' {id=1}" 
+[2018-11-13 10:18:18,993]   INFO - tbrains.buildServer.ACTIVITIES - Shutdown Spring components 
+[2018-11-13 10:18:25,347]   INFO - tbrains.buildServer.ACTIVITIES - Spring components are shut down 

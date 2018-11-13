@@ -1,0 +1,3 @@
+[2018-11-13 09:58:44,629]   INFO -  jetbrains.buildServer.CLEANUP - Max cleanup duration is set to 0 seconds 
+[2018-11-13 09:58:44,639]   INFO -  jetbrains.buildServer.CLEANUP - Cleanup time has been set to 03:00:00 daily 
+[2018-11-13 09:58:44,646]   INFO -  jetbrains.buildServer.CLEANUP - Cleanup is enabled 
